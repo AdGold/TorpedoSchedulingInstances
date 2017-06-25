@@ -61,8 +61,8 @@ Results are summurised below, for full details, see results.csv file. Zeros for 
 |config1 10000x5000|4|10374|102591.355|
 |config2 10000x5000|0|0|57.092|
 |config3 10000x5000|5|2587|145594.688|
-|config1 100000x50000|5|28237|4311^|
-|config2 100000x50000|0|0|9^|
-|config3 100000x50000|5|20860|13275^|
+|config1 100000x50000|5|28237|4310.742 ^|
+|config2 100000x50000|0|0|9.224 ^|
+|config3 100000x50000|5|20860|13275.286 ^|
 
 ^ Note that these were run with a forward limit of 20
