@@ -1,5 +1,4 @@
 ## Optimal Torpedo Scheduling Instance Library
-===
 
 This repository contains all of the instances used in the paper Optimal Torpedo Scheduling, they are organised as follows.
 
@@ -18,7 +17,7 @@ All instances were generated using the instance generator available from the ACP
 Results are summurised below, for full details, see results.csv file. Zeros for both nTorpedoes and desulfTime indicate that the instance was infeasible.
 
 |Instance|nTorpedoes|desulfTime|total runtime|
-|---:|---|---|---|
+|---|---|---|---|
 |config1 30x20|3|125|0.315|
 |config2 30x20|3|144|0.377|
 |config3 30x20|3|84|0.153|
