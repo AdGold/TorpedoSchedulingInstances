@@ -1,4 +1,4 @@
-Instances used for Optimal Torpedo Scheduling
+## Optimal Torpedo Scheduling Instance Library
 ===
 
 This repository contains all of the instances used in the paper Optimal Torpedo Scheduling, they are organised as follows.
@@ -13,7 +13,7 @@ comp/               # ACP 2016 Competition instances
 configs/            # Configuration files used for generating instances
 ```
 
-All instances were generated using the instance generator available from the ACP website and the configuration files included.
+All instances were generated using the instance generator available from the ACP website and the configuration files included. Problem details are available at [http://cp2016.a4cp.org/program/acp-challenge/problem.html].
 
 Results are summurised below, for full details, see results.csv file. Zeros for both nTorpedoes and desulfTime indicate that the instance was infeasible.
 
@@ -66,3 +66,7 @@ Results are summurised below, for full details, see results.csv file. Zeros for 
 |config3 100000x50000|5|20860|13275.286 ^|
 
 ^ Note that these were run with a forward limit of 20
+
+## References
+
+1. Adrian Goldwaser, Andreas Schutt. Optimal Torpedo Rotations. In *Proceedings of Principles and Practice of Constraint Programming - CP2017*, 2017.
