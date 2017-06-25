@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CP2016InstanceGeneratorConfiguration name="config101">
+  <FullTorpedoesBuffers amount="10"/>
+  <DesulfurizationStations amount="3"/>
+  <Converters amount="4"/>
+  <SmallTTRange max="3" min="1"/>
+  <MediumTTRange max="8" min="5"/>
+  <LargeTTRange max="15" min="10"/>
+  <DurationRange max="40" min="10"/>
+</CP2016InstanceGeneratorConfiguration>
