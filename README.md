@@ -13,7 +13,7 @@ comp/               # ACP 2016 Competition instances
 configs/            # Configuration files used for generating instances
 ```
 
-All instances were generated using the instance generator available from the ACP website and the configuration files included. Problem details are available at [http://cp2016.a4cp.org/program/acp-challenge/problem.html].
+All instances were generated using the instance generator available from the ACP website and the configuration files included. Problem details are available at http://cp2016.a4cp.org/program/acp-challenge/problem.html.
 
 Results are summurised below, for full details, see results.csv file. Zeros for both nTorpedoes and desulfTime indicate that the instance was infeasible.
 
