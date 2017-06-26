@@ -68,4 +68,4 @@ Results are summurised below, for full details, see results.csv file. Zeros for 
 
 ## References
 
-1. Adrian Goldwaser, Andreas Schutt. Optimal Torpedo Rotations. In *Proceedings of Principles and Practice of Constraint Programming - CP2017*, 2017.
+1. Adrian Goldwaser, Andreas Schutt. Optimal Torpedo Scheduling. In *Proceedings of Principles and Practice of Constraint Programming - CP2017*, 2017.
